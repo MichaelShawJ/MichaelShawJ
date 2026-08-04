@@ -1,4 +1,4 @@
-**I take products from idea to shipped.**
+## **I take products from idea to shipped.**
 
 Technical product leader in Salt Lake City. Physics MS, MBA, and a decade of building, measuring, and growing software products. Most of my work lives in private repos: most recently Penumbra, a cross-platform consumer app (iOS, Android, web) I designed, built, and shipped (In Beta Testing) solo using agentic development.
 
