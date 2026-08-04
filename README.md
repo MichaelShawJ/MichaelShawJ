@@ -3,12 +3,9 @@
 Technical product leader in Salt Lake City. Physics MS, MBA, and a decade of building, measuring, and growing software products. Most of my work lives in private repos: most recently Penumbra, a cross-platform consumer app (iOS, Android, web) I designed, built, and shipped (In Beta Testing) solo using agentic development.
 
 **Learn More or Contact:**
-
-Email: hello@shawportfolio.com
-
-Portfolio: shawportfolio.com
-
-Linkedin: linkedin.com/in/michaelshawj
+- Email: hello@shawportfolio.com
+- Portfolio: shawportfolio.com
+- Linkedin: linkedin.com/in/michaelshawj
 
 <!--
 **MichaelShawJ/MichaelShawJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
